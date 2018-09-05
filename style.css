@@ -1,16 +1,42 @@
 .keylinks-header {
     color: black;
-    font-family: "Courier New", Courier, monospace;
-    font-size: 1rem;
+    font-family: monospace;
+    font-size: 10px;
     margin: 0rem;
+    padding: 0 0 0 .5rem;
+    margin-left: 5px;
 }
 
+.keylinks-image-container {
+    padding: 0 0 0 1rem;
+    margin-left: 10px;
+    margin-left: 0
+
+}
+
+img {
+    margin-right: 10px;
+}
+
+
+
+
 .keylinks-container {
+    margin-left: 25px;
+    
 }
 a {
     text-decoration: none;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 0rem;
+    /* padding: 0rem; */
     margin: 0rem;
+    padding: 0 0 0 0rem;
+    
+}
+
+.keylinks-border {
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    width: 19rem
 }
